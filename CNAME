@@ -1,4 +1,4 @@
-$ dig WWW.EXAMPLE.COM +nostats +nocomments +nocmd
+$ dig www.jesuscode.com.br +nostats +nocomments +nocmd
     > ;www.jesuscode.com.br.                     IN      A
     > www.jesuscode.com.br.              3592    IN      CNAME   https://david-ui-code.github.io/jesuscode-site/.
     > YOUR-USERNAME.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
