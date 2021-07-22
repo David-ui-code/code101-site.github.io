@@ -16,9 +16,13 @@
   padding: 30px;
 }
 
+.u-section-1 .u-text-1 {
+  margin: 0 auto;
+}
+
 .u-section-1 .u-form-1 {
   height: 218px;
-  margin: 57px 0 0;
+  margin: 33px 0 0;
 }
 
 .u-section-1 .u-form-group-1 {
@@ -41,6 +45,14 @@
   margin-left: auto;
 }
 
+.u-section-1 .u-input-3 {
+  font-size: 1.25rem;
+}
+
+.u-section-1 .u-form-group-4 {
+  margin-left: auto;
+}
+
 .u-section-1 .u-btn-1 {
   background-image: none;
   border-style: solid;
@@ -50,6 +62,7 @@
   font-weight: 700;
   width: 100%;
   letter-spacing: 2px;
+  margin-bottom: 0;
 }
 
 @media (max-width: 991px) {

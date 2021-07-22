@@ -34090,7 +34090,7 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-nav-1 {
   font-size: 1rem;
   letter-spacing: 0px;
-  font-weight: 500;
+  font-weight: 700;
 }
 
 .u-header .u-nav-2 {
@@ -34111,13 +34111,14 @@ a.u-link.u-text-hover-grey-90:hover {
   height: 69px;
   object-position: 0% 50%;
   animation-duration: 1000ms;
-  background-image: url("images/favicon.png?rand=dfd5");
+  background-image: url("images/JesusCode3.png");
   background-position: 50% 50%;
   margin: -11px auto 0 -63px;
 }
 
 .u-header .u-login-1 {
   font-weight: 700;
+  animation-duration: 1000ms;
   margin: 3px auto 2px -51px;
 }
 @media (max-width: 1199px) {
