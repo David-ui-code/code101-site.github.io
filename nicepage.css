@@ -34183,8 +34183,12 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-left: auto;
   }
 
+  .u-header .u-image-1 {
+    margin-left: -12px;
+  }
+
   .u-header .u-login-1 {
-    margin-right: 347px;
+    margin-left: 0;
   }
 }
 .u-footer {

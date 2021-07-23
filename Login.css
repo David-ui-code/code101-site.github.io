@@ -2,9 +2,13 @@
   min-height: 493px;
 }
 
+.u-section-1 .u-text-1 {
+  margin: 34px auto 0;
+}
+
 .u-section-1 .u-form-1 {
   width: 570px;
-  margin: 60px auto 0;
+  margin: 16px auto 0;
 }
 
 .u-section-1 .u-input-1 {
@@ -70,5 +74,15 @@
 @media (max-width: 575px) {
   .u-section-1 .u-form-1 {
     width: 340px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: 0;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-top: 0;
+    margin-right: auto;
   }
 }

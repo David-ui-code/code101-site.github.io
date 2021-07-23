@@ -69,9 +69,25 @@
 @media (max-width: 575px) {
   .u-section-1 .u-group-1 {
     width: 340px;
+    min-height: 549px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding: 18px 0;
   }
 
   .u-section-1 .u-text-1 {
     font-size: 1.5rem;
+    margin-top: 12px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    width: auto;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: -59px;
+    padding-top: 12px;
+    padding-bottom: 13px;
   }
 }

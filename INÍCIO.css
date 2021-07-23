@@ -17,6 +17,10 @@
   .u-section-1 .u-sheet-1 {
     min-height: 549px;
   }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 60px;
+  }
 }.u-section-2 .u-sheet-1 {
   min-height: 991px;
 }
