@@ -20004,7 +20004,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'PT Sans',sans-serif;
+  font-family: 'Roboto Slab',serif;
 }
 /*end-variables font-family*/
 /*begin-variables color*/
@@ -20027,7 +20027,7 @@ h6 {
   font-family: 'Open Sans',sans-serif !important;
 }
 .u-custom-font.u-heading-font {
-  font-family: 'PT Sans',sans-serif !important;
+  font-family: 'Roboto Slab',serif !important;
 }
 /*end-variables font*/
 /*begin-variables colors*/
@@ -34117,9 +34117,8 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-login-1 {
-  font-weight: 700;
   animation-duration: 1000ms;
-  margin: 3px auto 2px -51px;
+  margin: 0 auto 5px -48px;
 }
 @media (max-width: 1199px) {
   .u-header .u-sheet-1 {
@@ -34146,7 +34145,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-login-1 {
     height: 25px;
-    margin-top: 0;
+    font-weight: normal;
     margin-bottom: -12px;
     margin-left: -22px;
   }
