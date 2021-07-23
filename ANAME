@@ -1,5 +1,0 @@
-$ dig jesuscode.com.br +noall +answer
-> jesuscode.com.br     3600    IN A     177.63.218.46
-> jesuscode.com.br     3600    IN A     177.63.218.46
-> jesuscode.com.br     3600    IN A     177.63.218.46
-> jesuscode.com.br     3600    IN A     177.63.218.46
