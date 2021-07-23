@@ -34118,6 +34118,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-login-1 {
   animation-duration: 1000ms;
+  font-weight: normal;
   margin: 0 auto 5px -48px;
 }
 @media (max-width: 1199px) {
@@ -34145,7 +34146,6 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-login-1 {
     height: 25px;
-    font-weight: normal;
     margin-bottom: -12px;
     margin-left: -22px;
   }
