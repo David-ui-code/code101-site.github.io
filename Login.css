@@ -27,14 +27,12 @@
 .u-section-1 .u-btn-2 {
   border-style: none none solid;
   align-self: center;
-  animation-duration: 1000ms;
   margin: 30px auto 0 285px;
   padding: 0;
 }
 
 .u-section-1 .u-btn-3 {
   border-style: none none solid;
-  animation-duration: 1000ms;
   margin: -26px 285px 60px auto;
   padding: 0;
 }

@@ -1,0 +1,135 @@
+body {
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+    background: linear-gradient(287.56deg, 	#000000 0%, #696969 100%);
+}
+
+.search-box { 
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #FFFFFF;
+    height: 40px;
+    padding: 10px;
+    border-radius: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.search-txt {
+    border: none;
+    background: none;
+    outline: none;
+    padding: 0;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 40px;
+    width: 0;
+    transition: .2s;
+}
+
+.search-btn {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #0a1b2d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-box:hover > .search-txt {
+    width: 240px;
+
+}
+
+.container {
+    height:100vh;
+    width: 100vw;
+    
+}
+
+.button {
+    border: none;
+    outline: none;
+    border-bottom: none;
+    text-align: right;
+    text-decoration: underline black;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  .terms-footerbutton {
+    border: none;
+    outline: none;
+    border-bottom: none;
+    background-color: none;
+    background: none;
+    text-align: right;
+    position: fixed
+    bottom: 2px; 
+    top: 7px;
+    width: 1200px;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  
+  .terms-footerbutton:hover {
+    text-decoration: underline white;
+  }
+  
+  .plt-footerbutton {
+    border: none;
+    outline: none;
+    border-bottom: none;
+    background-color: none;
+    background: none;
+    position:absolute;
+    bottom:2; 
+    width:100%;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  
+  .plt-footerbutton:hover {
+    text-decoration: underline white;
+  }
+  
+  .cookies-footerbutton {
+    border: none;
+    outline: none;
+    border-bottom: none;
+    background-color: none;
+    background: none;
+    position:absolute;
+    bottom:5; 
+    width:100%;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  
+  .cookies-footerbutton:hover {
+    text-decoration: underline white;
+  }
+  
+  .jesuscode {
+    position:absolute;
+    bottom:10; 
+    width:100%;
+    margin-top: 10px;
+  }
+  
+  .jesuscodeimg {
+    height: 100px;
+    position: absolute;
+    left: 100px;
+    margin-top: 10px;
+    right: 500px;
+  }

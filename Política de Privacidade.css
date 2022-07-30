@@ -1,0 +1,21 @@
+body {
+    margin: 10px;
+    height: 100vh;
+    width: 100vw;
+}
+
+.container {
+    height: 100vh;
+    width: 100vw;
+    
+}
+
+.políticadePrivacidade {
+    align-items: center;
+    bottom: 10%;
+    height: 50%;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    text-align: right;
+}

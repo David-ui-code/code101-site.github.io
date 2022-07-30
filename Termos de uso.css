@@ -1,0 +1,78 @@
+.button {
+    border: none;
+    outline: none;
+    border-bottom: none;
+    text-align: right;
+    text-decoration: underline black;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  .terms-footerbutton {
+    border: none;
+    outline: none;
+    border-bottom: none;
+    background-color: none;
+    background: none;
+    text-align: right;
+    position: fixed
+    bottom: 2px; 
+    top: 7px;
+    width: 1200px;
+    margin-top: 10px;
+
+  }
+  
+  .terms-footerbutton:hover {
+    text-decoration: underline white;
+  }
+  
+  .plt-footerbutton {
+    border: none;
+    outline: none;
+    border-bottom: none;
+    background-color: none;
+    background: none;
+    position:absolute;
+    bottom:2; 
+    width:100%;
+    margin-top: 10px;
+  }
+  
+  .plt-footerbutton:hover {
+    text-decoration: underline white;
+  }
+  
+  .cookies-footerbutton {
+    border: none;
+    outline: none;
+    border-bottom: none;
+    background-color: none;
+    background: none;
+    position:absolute;
+    bottom:5; 
+    width:100%;
+    margin-top: 10px;
+  }
+  
+  .cookies-footerbutton:hover {
+    text-decoration: underline white;
+  }
+  
+  .jesuscode {
+    position:absolute;
+    bottom:10; 
+    width:100%;
+    margin-top: 10px;
+  }
+  
+  .jesuscodeimg {
+    height: 100px;
+    position: absolute;
+    left: 100px;
+    margin-top: 10px;
+    right: 500px;
+  }
