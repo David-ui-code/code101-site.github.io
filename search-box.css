@@ -72,11 +72,9 @@ body {
     border-bottom: none;
     background-color: none;
     background: none;
-    text-align: right;
-    position: fixed
-    bottom: 2px; 
-    top: 7px;
-    width: 1200px;
+    position:absolute;
+    bottom:5; 
+    width:100%;
     margin-top: 10px;
     cursor: pointer;
   }
