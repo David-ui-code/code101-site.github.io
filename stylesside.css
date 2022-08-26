@@ -206,8 +206,12 @@ Sidebar
   color: var(--clr-red-light);
   transform: rotate(360deg);
 }
+.login {
+  justify-self: absolute;
+  height: 40px;
+}
 .logo {
-  justify-self: center;
+  justify-self: absolute;
   height: 40px;
 }
 

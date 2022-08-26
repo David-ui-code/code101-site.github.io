@@ -18744,6 +18744,7 @@ a.pswp__share--download:hover {
 }
 .u-login {
   display: table;
+  position:absolute;
 }
 .u-table-cell .u-btn,
 .u-text .u-btn {
