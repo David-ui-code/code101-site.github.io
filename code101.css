@@ -38316,7 +38316,17 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-text-1 {
   font-weight: 500;
   text-transform: uppercase;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
   margin: -28px auto 38px 0;
+}
+
+.u-header .u-btn-1 {
+  background-image: none;
+  padding: 0;
 }
 @media (max-width: 1199px) {
   .u-header .u-sheet-1 {
